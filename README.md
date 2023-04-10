@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -46,7 +45,7 @@
 
     
 
-
+<script defer src='./script.js'></script>
 </body>
 
 </html>
